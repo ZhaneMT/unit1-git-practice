@@ -103,10 +103,18 @@ rm -r drinks
 
 
 ### Step 5
+Git init
+Git add .
+Git commit -m 'first commit'
+ git remote add origin https://github.com/ZhaneMT/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 
 ### Step 6
-
+Touch menu.txt
+Git add .
+Git commit -m 'starting a menu'
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
